@@ -38,7 +38,7 @@ python demo_visualisation.py --env-id 1 --test-id 1 --algo dqn --ckpt-path <your
 ```
 
 ## Plot Training Curves
-The log files used in this paper can be downloaded from: [link](https://www.dropbox.com/sh/ebsjvuudwoy93kw/AAAjpY_hxLVARJiFF8rhE9qia?dl=0).
+The log files used in this paper can be downloaded from [[link]](https://www.dropbox.com/sh/ebsjvuudwoy93kw/AAAjpY_hxLVARJiFF8rhE9qia?dl=0).
 ```bash
 # 1. enter the plot_tools/ folder
 cd plot_tools
